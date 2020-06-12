@@ -1,0 +1,17 @@
+.card{
+    margin: 1px;
+  }
+  .bg-transparent{
+    border: dodgerblue 2px solid;
+  }
+  .w-75{
+    margin-left: 8%;
+  }
+  .btn{
+    margin-left: 5px;
+  }
+  /* #git{
+      width: auto;
+      height: auto;
+  } */
+  
