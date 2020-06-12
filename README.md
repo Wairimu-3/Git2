@@ -1,9 +1,6 @@
 # Git Search
 ## By:
 Margaret Kimani
-
-### Git
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7
 
 ### Description
@@ -13,7 +10,7 @@ The user will see more about the github user.This includes things like the the r
 
 ### Project live link
 
-.......
+https://wairimu-3.github.io/Git2/.
 
 ### Development server
 
